@@ -27,6 +27,7 @@ export default function App() {
     return null
   }
 
+  // só p commitar
   return (
     <ImageBackground
       source={bgBlur}
